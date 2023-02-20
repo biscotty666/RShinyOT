@@ -1,0 +1,11 @@
+name: census-app
+title:
+username:
+account: biscotty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8358808
+bundleId: 6864923
+url: https://biscotty.shinyapps.io/census-app/
+when: 1676869038.57535
+lastSyncTime: 1676869038.57537

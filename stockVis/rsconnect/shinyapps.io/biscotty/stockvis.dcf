@@ -1,0 +1,11 @@
+name: stockvis
+title:
+username:
+account: biscotty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8358792
+bundleId: 6864921
+url: https://biscotty.shinyapps.io/stockvis/
+when: 1676868765.07188
+lastSyncTime: 1676868765.0719
